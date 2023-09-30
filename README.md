@@ -1,8 +1,9 @@
 # lab2cos285
 
-Nikan
+Nikan 
 hasNext
 hasPrevious
+✅
 
 Ashley
 next
