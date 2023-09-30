@@ -5,7 +5,7 @@ public class myArrayList<E> {
  private static final int INITIAL_CAPACITY = 50;
  private static final double GROWTH_POLICY = 0.2;
  private Object[] array;
- private int size;
+ private static int size;
 
  // Constructor made by nikan
  public myArrayList() {
@@ -31,5 +31,12 @@ public class myArrayList<E> {
      array[index] = input;
      size = s + 1;
  }
+
+public static int size() {
+	// TODO Auto-generated method stub
+	return size;
+}
+ 
+ 
  
 }
