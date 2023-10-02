@@ -12,3 +12,5 @@ previous
 Colby
 addAll
 removeAllNext
+
+Run by running MainClass.java
